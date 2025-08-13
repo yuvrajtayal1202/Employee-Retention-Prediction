@@ -1,0 +1,13 @@
+Flask # flask lib
+Flask-Cors #A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
+# matplotlib#matplotlib
+# numpy#numpy
+# pandas# pandas
+scikit-learn
+kneed
+xgboost 
+Flask-MonitoringDashboard 
+Jinja2 
+Werkzeug 
+itsdangerous 
+certifi
